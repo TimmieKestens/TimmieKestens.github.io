@@ -5,4 +5,4 @@ print (whereat)
 wherespace = data.find(" ", whereat)
 print (wherespace)
 emailprovider = data[whereat+1 : wherespace]
-print (emailprovider)# Write your code here :-)
+print (emailprovider)
